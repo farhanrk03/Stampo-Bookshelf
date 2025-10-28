@@ -1,2 +1,2 @@
 # Stampo-Bookshelf
-simple bookshelf
+simple bookshelf with javascript
